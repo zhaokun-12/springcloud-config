@@ -1,1 +1,3 @@
-config: master config-dev
+config:
+  info: springcloud condifinfo message:ooop
+
